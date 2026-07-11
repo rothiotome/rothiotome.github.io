@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Game Jams & Experimental Work
+title: Game Jams & Experimental
 permalink: /small-games/
 nav_order: 3
 ---
