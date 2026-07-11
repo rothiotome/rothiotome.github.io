@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: home
 title: Home
 ---
 
-![Rothio portrait](/media/cropped_portrait.jpg){: width="200px" .image-center }
+![Rothio portrait](/media/cropped_portrait.jpg){: width="200px"}
 
 # Rocío 'Rothio' Tomé
 
