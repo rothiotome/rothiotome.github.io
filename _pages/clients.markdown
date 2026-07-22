@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: single
 title: Work for Clients
 permalink: /clients/
-nav_order: 1
 ---
 I work with studios and indie developers as a technical consultant, helping navigate complex development challenges and build better games.
 

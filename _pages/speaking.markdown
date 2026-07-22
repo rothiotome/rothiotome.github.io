@@ -1,8 +1,7 @@
 ---
-layout: page
-title: Speaking & Press
+layout: single
+title: Speaking
 permalink: /speaking/
-nav_order: 4
 ---
 I regularly speak at major industry events and participate in media to share knowledge about game development, technical architecture, accessibility, and the realities of indie game creation.
 

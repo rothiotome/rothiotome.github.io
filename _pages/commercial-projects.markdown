@@ -1,16 +1,15 @@
 ---
-layout: page
+layout: single
 title: Commercial Projects
 permalink: /commercial-projects/
-nav_order: 2
 ---
 # Wax Heads & Patattie Games
 
-![The Logo](/media/patattie_logo.jpg){: width="200px"}
+![The Logo](/media/patattie_logo.jpg)
 
 Patattie Games is the two-person indie punk duo made up together with the creative doodler Murray Somerwolff.
 
-![The Team](/media/patattie_profile.jpg){: width="200px"}
+![The Team](/media/patattie_profile.jpg)
 
 ## Wax Heads
 

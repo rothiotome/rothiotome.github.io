@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: single
 title: Game Jams & Experimental
 permalink: /small-games/
-nav_order: 3
 ---
 I'm passionate about exploring new creative directions and experimental game creation through various formats and technologies.
 

@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: single
 title: Press Kit
 permalink: /presskit/
-nav_order: 5
 ---
 ![Rothio portrait](/media/cropped_portrait.jpg){: width="200px"}
 # Rocío 'Rothio' Tomé (She/Her)

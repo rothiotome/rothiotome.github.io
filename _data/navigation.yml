@@ -1,0 +1,23 @@
+# main links
+main:
+  - title: "Consulting"
+    description: "Work for Clients"
+    url: /clients/
+  - title: "My Studio"
+    description: "Commercial Projects"
+    url: /commercial-projects/
+  - title: "Small Games"
+    description: "Game Jams & Experimental"
+    url: /small-games/
+  - title: "Speaking"
+    url: /speaking/
+  - title: "Press Kit"
+    url: /presskit/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

@@ -1,0 +1,17 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+// Variable overrides must come before the theme imports below, otherwise
+// they only affect rules Sass happens to compile after this point.
+$intro-transition          : none;
+$global-transition         : none;
+$right-sidebar-width-narrow: 0;
+$right-sidebar-width       : 0;
+$right-sidebar-width-wide  : 0;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
