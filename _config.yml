@@ -58,7 +58,7 @@ header_pages:
   - speaking.markdown
   - presskit.markdown
 include:
-  - "_pages/"
+  - "_pages"
 
 defaults:
   # _pages
