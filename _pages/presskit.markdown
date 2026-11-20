@@ -10,7 +10,7 @@ permalink: /presskit/
 ---
 
 ## About me
-Rocío "Rothio" Tomé is the Creative Technical Director and co-founder of Patattie Games, the studio that debuted with the award-winning Wax Heads. A programmer holding a PhD in Psychology with a decade of engineering experience — ranging from experimental game jams to B2B VR applications for medical training — she is a recognised authority on game engines like Godot and Twitch integrations. A seasoned international speaker and online personality, Rocío frequently shares her expertise on major stages such as A MAZE, GodotCon, and Mobile World Congress.
+Rocío "Rothio" Tomé is the Creative Technical Director and co-founder of Patattie Games, the studio that debuted with the award-winning Wax Heads. A programmer holding a Master’s degree in Psychology with a decade of engineering experience — ranging from experimental game jams to B2B VR applications for medical training — she is a recognised authority on game engines like Godot and Twitch integrations. A seasoned international speaker and online personality, Rocío frequently shares her expertise on major stages such as A MAZE, GodotCon, and Mobile World Congress.
 
 Rocío's frequent contributions to the Spanish and international games industry include the creation of thousands of hours of educational developer-targeted content creation on Twitch and YouTube, co-founding FemDevs, and creating various free open-source tools for developers. She was recognised for these and other efforts by winning the prestigious GameDevHeroes award in 2026.
 
